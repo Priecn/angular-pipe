@@ -1,0 +1,12 @@
+.container {
+    margin-top: 80px;
+}
+
+.list-group-item {
+    border-radius: 0px;
+    margin-top: 4px;
+}
+
+.badge {
+    border-radius: 0px;
+}
