@@ -5,8 +5,17 @@
 .list-group-item {
     border-radius: 0px;
     margin-top: 4px;
+    opacity: 0.8;
 }
 
 .badge {
+    border-radius: 0px;
+}
+
+input {
+    border-radius: 0px;
+}
+
+.btn {
     border-radius: 0px;
 }
